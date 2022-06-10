@@ -2,6 +2,7 @@
     min-height: 64px;
     background-color: var(--app-color);
     border-top: 2px solid var(--vio-color);
+    margin-top: 64px;
 }
 
 .header-link {
