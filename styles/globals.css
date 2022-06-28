@@ -11,6 +11,11 @@ a {
   text-decoration: none;
 }
 
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
 html {
   --app-color: #24f88e;
   --app-secondary-color: #00ff40;
